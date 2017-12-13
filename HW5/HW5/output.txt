@@ -1,0 +1,9 @@
+The postfix form of [ ( -5 + 7 ) * ( 6 - 2 ) ] is: 
+  -5 7 + 6 2 - *
+Computed value of this postfix expression is: 8
+The postfix form of [ ( 3 + 4 ) / ( 9 - 10 ) ] is: 
+  3 4 + 9 10 - /
+Computed value of this postfix expression is: -7
+The postfix form of [ ( 3 + 4 ) / ( 9 - 10 ) ] is: 
+  3 4 + 9 10 - /
+Computed value of this postfix expression is: -7

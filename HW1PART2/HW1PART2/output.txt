@@ -1,0 +1,11 @@
+Name                ID#                 Job Type            Gross Salary        
+Jack Khan           Gross Salary could not be calculated due to bad data
+Jeff Smith          1234                Management          $1980.00
+Joe Lee             3452                Office Worker       $1370.00
+Lary Mann           5432                Management          $288.00
+Sara Jones          5439                Factory Worker      $1540.00
+Sandy Beckman       5555                Management          $2505.00
+                    5555                Management          $2505.00
+George Washington   Gross Salary could not be calculated due to bad data
+Ben George          6543                Factory Worker      $2145.00
+Jack Adams          6743                Office Worker       $2235.00
